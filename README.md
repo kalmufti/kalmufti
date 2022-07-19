@@ -40,12 +40,15 @@ I'm a multidisciplinary engineer and an AI/ML enthusiast 🧠. I love building s
 ![](https://img.shields.io/badge/Next.JS-222222?&style=flat&logo=next.js)
 ![](https://img.shields.io/badge/Express.JS-222222?&style=flat&logo=express)
 ![](https://img.shields.io/badge/FastAPI-222222?&style=flat&logo=fastapi)
+![](https://img.shields.io/badge/GraphQL-222222?&style=flat&logo=GraphQL)
 ![](https://img.shields.io/badge/Socket.IO-222222?&style=flat&logo=socketdotio)
+![](https://img.shields.io/badge/WebRTC-222222?&style=flat&logo=WebRTC)
 
 ##### Machine Learning/Deep Learning
 
 ![](https://img.shields.io/badge/Tensorflow-222222?&style=flat&logo=tensorflow)
 ![](https://img.shields.io/badge/PyTorch-222222?&style=flat&logo=pytorch)
+![](https://img.shields.io/badge/NumPy-222222?&style=flat&logo=NumPy)
 ![](https://img.shields.io/badge/scikit--learn-222222?&style=flat&logo=scikitlearn)
 ![](https://img.shields.io/badge/Pandas-222222?&style=flat&logo=pandas)
 ![](https://img.shields.io/badge/Kaggle-222222?&style=flat&logo=kaggle)
