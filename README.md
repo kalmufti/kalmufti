@@ -12,6 +12,10 @@ I'm a multidisciplinary engineer and an AI/ML enthusiast 🧠. I love building s
 
 ##
 
+[![@khalid's Holopin board](https://holopin.io/api/user/board?user=khalid)](https://holopin.io/@khalid)
+
+##
+
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalmufti&show_icons=true&theme=tokyonight&layout=compact" />
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalmufti&theme=tokyonight" />
